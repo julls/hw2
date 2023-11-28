@@ -1,0 +1,34 @@
+body, html{
+    height: 100%;
+    margin: 0;
+  }
+  
+  #header{
+    height: 10%;
+    width: 100%;
+    background-color:#FFE4B5;
+    color: #800000;
+  }
+  
+  #menu{
+    height: 80%;
+    width: 25%;
+    float: left;
+    background-color:#FFE4B5;
+    color: #800000;
+  }
+  
+  #main{
+    height: 80%;
+    width: 75%;
+    float: left;
+    background-color:#FFE4B5;
+    color: #800000;
+  }
+  
+  #footer{
+    height: 10%;
+    width: 100%;
+    background-color: #DEB887;
+    color: #800000;
+  }
